@@ -11441,8 +11441,14 @@ html {
 .masthead .masthead-subheading {
   font-size: 1.25rem;
 }
-.masthead .masthead-avatar {
-  width: 15rem;
+.masthead .masthead-avatar1 {
+  width: 10rem;
+  float: left;
+}
+
+.masthead-avatar2 {
+  width: 10rem;
+  float: right;
 }
 
 @media (min-width: 992px) {
